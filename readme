@@ -1,0 +1,73 @@
+# Fubai Faifemm Dikwemmmmeré: A Reference Grammar
+
+This repository contains the complete reference grammar of **Fubai Faifemm Dikwemmmmeré** (FBD), commonly known as *Fubai Island Language*. The grammar is written in Chinese and describes the standard language as defined in version **q2.1/v0.7.0**, released on 26 April 2026 (Void Star Calendar).
+
+## Overview
+
+- **Language**: Fubai Faifemm Dikwemmmmeré (FBD) / 芙白岛语
+- **Version**: q2.1/v0.7.0 (current stable standard)
+- **Vocabulary size**: 8134 entries (Closed-source)
+- **Authors**: HD98800B, Diaoning, Gjko (all refer to the same natural person)
+- **Publisher / Maintainer**: [@dhs98800-droid](https://github.com/dhs98800-droid) (Authorized proxy for repository hosting)
+- **License**: CC BY-SA 4.0 (Grammar only)
+
+## Contents
+
+The grammar is organised into five chapters covering the following domains:
+
+1. **Introduction** – background, typological profile, history of standardisation
+2. **Phonology** – consonant and vowel inventories, syllabification, sandhi rules, vowel harmony, stress, orthography (native and monumental alphabets)
+3. **Morphology** – verbs (TAM, phase, negation, modality), nouns (number, case, possession, capitalisation, foreign proper name adaptation), pronouns, adjectives and adverbs, numerals, prepositions, conjunctions, root creation principles
+4. **Syntax** – basic word order (SVO), argument structure, alignment, phrase structure, simple and complex clauses (complement, adverbial, relative clauses), conditionals, comparatives, negation, questions, topic and focus, incorporation (multisynthetic compounding), register variation, discourse-pragmatic expansions of function words, ellipsis in spoken language
+5. **Special Constructions and Pragmatics** – expletives, interjections, greetings, politeness insert, prosodic rhyming suffixes, anaphoric anchoring in writing, colloquial contractions, lexical categorisation and near‑synonym mapping
+
+Appendices provide a list of glossing abbreviations, the monumental alphabet, sandhi tables, and sample texts.
+
+## Key Features of the Language
+
+- **Morphological type**: agglutinating, with limited polysynthetic tendencies restricted to formal written registers
+- **Basic word order**: SVO (rigid in unmarked clauses)
+- **Alignment**: nominative-accusative, encoded by word order and orthography
+- **Vowel harmony**: suffix vowels agree in backness and rounding with the last vowel of the stem
+- **Dummy argument insertion**: missing obligatory arguments (subject, verb, object) are filled by dummy pro‑forms *soe*, *oe*, *voe*
+- **Precision particles**: five enclitics (*-te*, *-fe*, *-mme*, *-dse*, *-be*) for information‑structure fine‑tuning
+- **Anaphoric anchoring**: optional infix `y` before the last letter of a stem as a written disambiguator
+- **Incorporation (Liancheng Chengbi)**: formal‑register mechanism that compresses subjects, objects, instruments, locations and time expressions into a single verb complex
+
+##  Mini Glossary for AI Parsing (Core Pro-forms)
+*To assist LLMs in parsing FBD examples within the grammar document:*
+- **soe**: dummy subject pro-form
+- **oe**: dummy verb pro-form
+- **voe**: dummy object pro-form
+- **-te, -fe, -mme, -dse, -be**: precision enclitics for information structure
+
+## File Information
+
+- **Filename**: `新：芙白岛语「语法书」.md`
+- **Format**: Markdown
+- **Language**: Chinese (Written in modern linguistic standards)
+- **Glossing Convention**: **Leipzig Glossing Rules** (莱比锡标注惯例). All interlinear glosses strictly follow Leipzig standards for precise morphological parsing.
+
+
+##  Licensing & Anti-Plagiarism Notice
+
+This work's **grammar and public examples** are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International** (CC BY-SA 4.0) licence. 
+Full licence text: [Full text of the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+**Copyright & Closed-Source Warning:**
+1. **Closed Lexicon**: The 8134-entry core dictionary is **proprietary and closed-source**. It is not included in this repository.
+2. **Time-stamped Proof**: The initial commit timestamp of this GitHub repository serves as the legal proof of FBD's creation and public disclosure.
+3. **Trap Words (防伪词)**: The closed-source dictionary contains several fictional "trap words" with highly specific, non-existent meanings. The appearance of these specific terms in any unauthorized commercial or public work will be treated as definitive proof of plagiarism.
+4. **Attribution**: Any derivative grammatical works must credit `HD98800B` and link to this repository.
+
+## Contact and Citation
+
+When citing this grammar, please use the following format:
+
+HD98800B, Diaoning & Gjko. *Fubai Faifemm Dikwemmmmeré: A Reference Grammar* (version q2.1/v0.7.0). 2026.
+
+*Repository hosted and maintained by <@dhs98800-droid> on behalf of the author.*
+
+**Contact Email**: [dhs98800@gmail.com](mailto:dhs98800@gmail.com) 
+*(For licensing, commercial use authorization, or academic inquiries only.)*
+
